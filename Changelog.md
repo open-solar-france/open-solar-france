@@ -2,10 +2,7 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
-Le format est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/),
-et ce projet adhère au [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-## [v2025.01] - 2025-01-25
+## [v2025.07] - 2025-07-25
 
 ### Ajouté
 - Données d'irradiation solaire pour les communes françaises (janvier 2025)
@@ -17,16 +14,9 @@ et ce projet adhère au [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Modifié
 - Structure du projet organisée en dossiers `data/`, `notebooks/`, et `scripts/`
 
-### Corrigé
-- N/A (première version)
-
-### Supprimé
-- N/A (première version)
-
-## [Non publié]
 
 ### À venir
-- Mise à jour des données pour février 2025
+- Mise à jour des données pour Aout 2025
 - Ajout d'outils de visualisation interactive
 - Extension des analyses géospatiales
 

@@ -58,5 +58,5 @@ Retrouvez ce jeu de données et d'autres ressources sur notre portail :
 
 Cette version correspond à la release `v2025.01`.
 
-Pour consulter l'historique des modifications, veuillez vous référer au fichier [CHANGELOG.md](CHANGELOG.md).
+Pour consulter l'historique des modifications, veuillez vous référer au fichier [CHANGELOG.md](https://github.com/open-solar-france/open-solar-france/blob/main/Changelog.md).
 
