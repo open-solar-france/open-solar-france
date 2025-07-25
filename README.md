@@ -35,7 +35,7 @@ Voici un exemple simple d'utilisation des données d'irradiation avec Python :
 import pandas as pd
 
 # Charger les données
-data_path = 'data/irradiation_communes_2025_01.csv'
+data_path = 'data/irradiation_communes_2025_07.csv'
 df = pd.read_csv(data_path)
 
 # Afficher les premières lignes
