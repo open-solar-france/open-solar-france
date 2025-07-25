@@ -54,7 +54,7 @@ Retrouvez ce jeu de données et d'autres ressources sur notre portail :
 
 [Données d'irradiation solaire par commune](https://solairesimple.fr/datasets)
 
-## Release tag v2025.01 + changelog
+## Release tag v2025.07 + changelog
 
 Cette version correspond à la release `v2025.01`.
 
