@@ -54,8 +54,6 @@ Retrouvez ce jeu de données et d'autres ressources sur notre portail :
 
 ## 🎁 Widget irradiation solaire (iframe)
 
-[widget demo](https://solairesimple.fr/widget)
-
 Ajoutez en 30 secondes un encart “irradiation & ROI” à n’importe quel blog WordPress, page Notion ou site HTML :  
 
 ```html
@@ -67,6 +65,15 @@ Ajoutez en 30 secondes un encart “irradiation & ROI” à n’importe quel blo
   loading="lazy"
 ></iframe>
 ```
+
+Fonctionnalités:
+
+- Irradiation annuelle, ROI, économies, CO₂ évité
+- Responsive : ≤ 20 kB, aucun cookie, HTTPS only
+- Licence CC-BY 4.0 : attribution “Propulsé par SolaireSimple” déjà incluse
+- Paramètres : insee (préféré) ou code postal, option ref= pour suivre vos intégrations
+
+👉 Documentation complète : https://solairesimple.fr/widgets/
 
 ## Release tag v2025.07 + changelog
 
