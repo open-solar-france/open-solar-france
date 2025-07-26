@@ -54,7 +54,7 @@ Retrouvez ce jeu de données et d'autres ressources sur notre portail :
 
 ## 🎁 Widget irradiation solaire (iframe)
 
-![widget demo](widget/demo.gif)
+[widget demo](https://solairesimple.fr/widget)
 
 Ajoutez en 30 secondes un encart “irradiation & ROI” à n’importe quel blog WordPress, page Notion ou site HTML :  
 
@@ -66,6 +66,7 @@ Ajoutez en 30 secondes un encart “irradiation & ROI” à n’importe quel blo
   style="border:0;border-radius:12px;max-width:100%;"
   loading="lazy"
 ></iframe>
+```
 
 ## Release tag v2025.07 + changelog
 
