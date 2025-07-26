@@ -73,7 +73,7 @@ Fonctionnalités:
 - Licence CC-BY 4.0 : attribution “Propulsé par SolaireSimple” déjà incluse
 - Paramètres : insee (préféré) ou code postal, option ref= pour suivre vos intégrations
 
-👉 Documentation complète : https://solairesimple.fr/widgets/
+👉 Documentation complète : https://solairesimple.fr/widget/
 
 ## Release tag v2025.07 + changelog
 
