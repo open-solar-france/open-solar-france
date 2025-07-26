@@ -46,13 +46,26 @@ print(df.head())
 # print(f"Irradiation annuelle moyenne : {mean_irradiation:.2f} kWh/m²")
 ```
 
-
-
 ## Données
 
 Retrouvez ce jeu de données et d'autres ressources sur notre portail :
 
 [Données d'irradiation solaire par commune](https://solairesimple.fr/datasets)
+
+## 🎁 Widget irradiation solaire (iframe)
+
+![widget demo](widget/demo.gif)
+
+Ajoutez en 30 secondes un encart “irradiation & ROI” à n’importe quel blog WordPress, page Notion ou site HTML :  
+
+```html
+<iframe
+  src="https://solairesimple.fr/widget/irradiation?insee=75001"
+  width="300"
+  height="420"
+  style="border:0;border-radius:12px;max-width:100%;"
+  loading="lazy"
+></iframe>
 
 ## Release tag v2025.07 + changelog
 
