@@ -2,7 +2,7 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
-## [v2025.07] - 2025-00-25
+## [v2025.09] - 2025-09-17
 
 ### Ajouté
 - Ajout des données d'irradiation solaire de 3320 communes pour un total de 7868 communes françaises
