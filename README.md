@@ -75,9 +75,9 @@ Fonctionnalités:
 
 👉 Documentation complète : https://solairesimple.fr/widget/
 
-## Release tag v2025.07 + changelog
+## Release tag v2025.10 + changelog
 
-Cette version correspond à la release `v2025.07`.
+Cette version correspond à la release `v2025.1O`.
 
 Pour consulter l'historique des modifications, veuillez vous référer au fichier [CHANGELOG.md](https://github.com/open-solar-france/open-solar-france/blob/main/Changelog.md).
 
